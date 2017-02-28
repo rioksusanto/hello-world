@@ -1,3 +1,3 @@
 # hello-world
-First repository created
+First repository create
 Hello this is Rio.
